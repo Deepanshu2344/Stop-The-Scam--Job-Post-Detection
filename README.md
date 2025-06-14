@@ -1,3 +1,12 @@
+## 🚀 Try It Live  
+
+👉 **Access the deployed app on Streamlit:**  
+https://stop-the-scam-job-detection.streamlit.app/
+
+Upload your own CSV job post data and get fraud risk predictions in real time.
+
+---
+
 # 🚨 Spot The Scam: Job Post Fraud Detection
 
 A Machine Learning and Streamlit-based app to detect fraudulent job postings using job description text and structured features.
