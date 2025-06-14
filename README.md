@@ -41,7 +41,9 @@ The model analyzes job descriptions and metadata to classify posts as **Fraudule
 
 ## 📊 Model Behavior & Output
 ->  The model takes TF-IDF features from job descriptions along with structured metadata.
+
 -> It outputs the probability that a job post is fraudulent.
+
 -> If this probability is high (e.g. above 0.5), the job is flagged as fake.
 
 ## 📈 Model Evaluation
@@ -49,12 +51,16 @@ Model Used: Random Forest Classifier
 
 Why?
 -> Excellent with imbalanced data
+
 -> Provides feature importance
+
 -> Robust and interpretable
 
 🔍 Metrics:
 -> F1-Score: Your model’s F1-score here
+
 -> ROC-AUC Score
+
 -> Confusion Matrix
 
 ## 📊 Dashboard & Insights
