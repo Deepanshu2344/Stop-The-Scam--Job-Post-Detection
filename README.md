@@ -39,12 +39,28 @@ The model analyzes job descriptions and metadata to classify posts as **Fraudule
    ```bash
    streamlit run streamlit_app.py
 
+---
+
+## 📌 Data Science Focus
+
+**Data Cleaning:** Filled missing text fields with empty strings, dropped job_id.
+
+**Feature Engineering:** Combined multiple text columns, encoded categorical variables.
+
+**Model Selection:** Random Forest Classifier chosen for its robustness with mixed data types and imbalanced data handling.
+
+**Evaluation:** Measured using F1-score due to dataset imbalance. Visualized with confusion matrix and histograms in dashboard.
+
+---
+
 ## 📊 Model Behavior & Output
 ->  The model takes TF-IDF features from job descriptions along with structured metadata.
 
 -> It outputs the probability that a job post is fraudulent.
 
 -> If this probability is high (e.g. above 0.5), the job is flagged as fake.
+
+---
 
 ## 📈 Model Evaluation
 Model Used: Random Forest Classifier
@@ -62,6 +78,8 @@ Why?
 -> ROC-AUC Score
 
 -> Confusion Matrix
+
+---
 
 ## 📊 Dashboard & Insights
 The Streamlit dashboard includes:
