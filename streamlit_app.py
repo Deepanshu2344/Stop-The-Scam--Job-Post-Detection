@@ -66,4 +66,4 @@ if uploaded_file:
 else:
     st.info('Upload a job listings CSV file to begin fraud detection.')
 
-st.caption("Built with ❤️ by Deepanshu and Raman for Anveshan Hackathon June 2025")
+st.caption("Built with ❤️ by Deepanshu for Anveshan Hackathon June 2025")
