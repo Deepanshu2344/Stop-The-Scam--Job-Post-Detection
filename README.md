@@ -1,5 +1,8 @@
 # 🚨 Spot The Scam: Job Post Fraud Detection
 
+📺 **Video Presentation:**  
+[🎥 Watch the 5–7 min Project Walkthrough Here](https://drive.google.com/file/d/1iQXYUYauS5ivhJu5hHK50SxbT2SQEnBR/view?usp=drive_link)
+
 A Machine Learning and Streamlit-based app to detect fraudulent job postings using job description text and structured features.
 
 ---
