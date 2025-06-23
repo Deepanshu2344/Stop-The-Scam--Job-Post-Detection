@@ -1,5 +1,8 @@
 # 🚨 Spot The Scam: Job Post Fraud Detection
 
+🚀 **Deployed App:**  
+[🖥️ Click here to try our live Streamlit App](https://stop-the-scam-job-detection.streamlit.app/)
+
 📺 **Video Presentation:**  
 [🎥 Watch the 5–7 min Project Walkthrough Here](https://drive.google.com/file/d/1iQXYUYauS5ivhJu5hHK50SxbT2SQEnBR/view?usp=drive_link)
 
